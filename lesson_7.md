@@ -1,5 +1,6 @@
 # Основы css сеток
-- Верстка раздела с каталогом  https://ilyaillych.wixsite.com/mysite-27/shop-all
+- Адаптивные CSS сетки осная идея
+- Использование SCSS для верстки https://ilyaillych.wixsite.com/mysite-27/shop-all
 
 ## HW верстка страницы согласно готовому макету
 https://ilyaillych.wixsite.com/mysite-28
