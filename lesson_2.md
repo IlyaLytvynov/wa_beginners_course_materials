@@ -8,6 +8,7 @@
   - Наследуемые свойства
   - Не наследуемые свойства
   - Отступы padding/margin
-
-### Верстка страницы согласно примеру
+Пример верстки формы https://www.figma.com/file/XIGo9Oo8dSS7VSZRaXXBMt/SignUpForm
+### HW Верстка страницы согласно примеру
 https://ilyalytvynov.github.io/protfolio-example/
+

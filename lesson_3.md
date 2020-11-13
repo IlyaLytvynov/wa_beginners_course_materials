@@ -7,6 +7,8 @@
 - Display
 - Block/inline/inline-block https://html5book.ru/block-inline-elements/
 - Схлопывание вертикальных отступов https://html5book.ru/css-blochnaya-model/#margins-collapse
-## Верстка формы согласно шаблону
+- background-image
 
-https://www.figma.com/file/hmiQFoJavNgjxKr5pCLecm/Untitled?node-id=0%3A1
+## Верстка страницы согласно шаблону
+https://www.figma.com/file/ftIZnLLkeWdGEDSuP3X7e8/landing-3
+
