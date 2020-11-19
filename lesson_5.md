@@ -6,5 +6,6 @@ https://www.figma.com/file/ibH2gJhqudcEXNy7JJvdwS/personalPortfolio-site?node-id
 
 ## HW 
 - Верстка шаблона https://ilyaillych.wixsite.com/mysite-31
+https://www.figma.com/file/OdtYgHA0lYtslcG3e4bmU8/landing-31?node-id=0%3A1
 - Установить nodejs https://nodejs.org/en/ https://www.youtube.com/watch?v=yFdEUeFXZuM
 - Просмотреть видео о npm https://www.youtube.com/watch?v=sL6VvWOAuLE&t=1s
