@@ -1,14 +1,9 @@
 # Основы JS 
-- Функции
-- Параметры
-- Возврат значений
-- Область видимости
-- Стрелочные функции
-- Функция как параметр Callback функции
-- ПРимер работы с DOM создание кликабельного элемента
-- addEventListener()
+- Операторы сравнения https://learn.javascript.ru/comparison
+- Операторы ветвления https://learn.javascript.ru/ifelse
+- Циклы https://learn.javascript.ru/while-for
+- Массивы
 
-## HW Создать страницу со светофором на 3 сигнала пример работы https://ilyalytvynov.github.io/group_270820/lesson_13/lighter.html
-
+## HW Пройти главу 6 и 7
 ## !!ДОПОЛНИТЕЛЬНЫЙ ОБЯЗАТЕЛЬНЫЙ МАТЕРИАЛ!!
 - Пройти уроки 10-20 https://githowto.com/ru
