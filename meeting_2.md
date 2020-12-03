@@ -1,4 +1,4 @@
 ## Практика верстки формы
-  - https://www.figma.com/file/hmiQFoJavNgjxKr5pCLecm/SignInForm
- - https://www.figma.com/file/yLTQtQBSS4398GLZnJre1o/sign-up-form
- - https://www.figma.com/file/Y81hLNLW613epLe21dzFJZ/day_1064
+  - https://www.figma.com/file/Y81hLNLW613epLe21dzFJZ/day_1064 - статистика
+  - https://www.figma.com/file/8cIUOY8RQuaaYkjaxpfySI/Product - продукт
+  - https://www.figma.com/file/Mfx0rjfPnEXIOmh1BWS9Vn/profile - профиль пользователя
