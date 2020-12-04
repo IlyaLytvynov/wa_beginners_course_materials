@@ -5,7 +5,7 @@
 - Создание компонента select
 https://learn.javascript.ru/modifying-document
 
-## TBD
+## Создание кнопки с открывающимся окном пример lesson 12 png
 ## Доп материал
 - Основы клиент серверного взаимодействия https://www.youtube.com/watch?v=2tcRLUYJYNQ 
 - AJAX https://www.youtube.com/watch?v=TDM0UDI0YEY&t=7s
