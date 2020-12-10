@@ -6,4 +6,5 @@
 - Автоматизация работы в js setTimeout/setInterval https://learn.javascript.ru/settimeout-setinterval
 
 ### HW 
-1. переписать реализацию на класс https://learn.javascript.ru/class#perepishite-klass
+1. Добавить автоматичекое переключение для светофора из задания 10,
+2. Читать главу 10 книги js для детей выполнить задания в конце
