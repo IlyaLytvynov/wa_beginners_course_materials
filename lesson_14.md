@@ -7,6 +7,6 @@
 - Применение ООП для создание компонентов страницы
 
 
-## HW вывести на страницу каталог фильмов https://boring-fe.herokuapp.com/advertisments используя grid, динамическое создание элементов и ajax
+## HW вывести на страницу каталог фильмов https://boring-fe.herokuapp.com/movies используя grid, динамическое создание элементов и ajax
 ## Доп материал
 - https://learn.javascript.ru/destructuring-assignment
