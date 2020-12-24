@@ -8,5 +8,6 @@
 
 
 ## HW вывести на страницу каталог фильмов https://boring-fe.herokuapp.com/movies используя grid, динамическое создание элементов и ajax и ООП (классы)
+https://www.figma.com/file/gTNhESAYujAXTl1ls6h3Il/product-card?node-id=0%3A1
 ## Доп материал
 - https://learn.javascript.ru/destructuring-assignment
