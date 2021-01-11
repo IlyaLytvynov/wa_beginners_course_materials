@@ -2,3 +2,4 @@
 - Компонентная архитетура https://learn.javascript.ru/webcomponents-intro
 - Создание компонента пагинации 
 - Использование параметров запроса для сортировки получаемых данных с сервера
+- Функции обратного вызова при общении компонентов (https://ru.hexlet.io/blog/posts/javascript-what-the-heck-is-a-callback)
