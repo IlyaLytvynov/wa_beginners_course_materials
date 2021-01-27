@@ -12,3 +12,6 @@
 ## Верстка страницы согласно шаблону
 https://www.figma.com/file/ftIZnLLkeWdGEDSuP3X7e8/landing-3
 
+## HW
+https://www.figma.com/file/aDreuRcBACBfkqrJLV7AYE/ghosted-coming-soon-page?node-id=0%3A2
+
