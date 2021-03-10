@@ -1,9 +1,13 @@
-# FromData/File uploading 
-- Отправка данных на сервер POST/PUT/DELETE
-- Создание формы для добавления постов
-- Загрузка файлов https://webref.ru/layout/html5-css3/form/file 
-- FormData https://developer.mozilla.org/ru/docs/Web/API/FormData/Using_FormData_Objects
-- FileReader https://developer.mozilla.org/ru/docs/Web/API/FileReader
-- Обновление списка без перезагрузки страницы
+# ООП 
+- Обьект детально
+- Контекст вызова
+- Методы обьектов
+- class ES2015 https://learn.javascript.ru/class
+- Основные принципы ООП инкапсуляция/наследование/абстракция/полиморфизм
+- Применение ООП для создание компонентов страницы
 
-## HW создать форму для добавления рекламных обявлений https://boring-fe.herokuapp.com/advertisments
+
+## HW вывести на страницу каталог фильмов https://boring-fe.herokuapp.com/movies используя grid, динамическое создание элементов и ajax и ООП (классы)
+https://www.figma.com/file/gTNhESAYujAXTl1ls6h3Il/product-card?node-id=0%3A1
+## Доп материал
+- https://learn.javascript.ru/destructuring-assignment
