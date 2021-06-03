@@ -10,5 +10,5 @@
   - Отступы padding/margin
 Пример верстки формы https://www.figma.com/file/hmiQFoJavNgjxKr5pCLecm/SignInForm?node-id=0%3A1
 ### HW Верстка страницы согласно примеру
-https://ilyalytvynov.github.io/protfolio-example/
+https://www.figma.com/file/g2ydCibbvp6XnUwp0MRq98/Untitled?node-id=0%3A1 
 
